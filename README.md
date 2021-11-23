@@ -1,2 +1,2 @@
 # assembly-car-number-input
-车牌号输入器
+uniapp 微信小程序 车牌号输入器
